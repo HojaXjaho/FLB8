@@ -1,2 +1,2 @@
 # FLB8
-## In diesem Git Repository haben wir unseren Code zum Download zur Verfügung gestellt.
+## In diesem Git Repository haben wir unseren Code und die Forscherarbeit zum Download zur Verfügung gestellt.
